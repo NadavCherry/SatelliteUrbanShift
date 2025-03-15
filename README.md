@@ -47,19 +47,9 @@ This repository presents a **cutting-edge approach** to detecting and predicting
    pip install -r requirements.txt
    ```
 
-3. Run data preprocessing:
+3. Open Jupyter Notebook:
    ```bash
-   python preprocess.py
-   ```
-
-4. Train models:
-   ```bash
-   python train.py --model xgboost
-   ```
-
-5. Evaluate models:
-   ```bash
-   python evaluate.py --model ensemble
+   jupyter notebook
    ```
 
 ---
@@ -133,21 +123,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 
 ---
-
-### 🔥 Instructions to Add this to Your GitHub Repository
-
-1. Navigate to your project directory:
-   ```bash
-   cd SatelliteUrbanShift
-   ```
-
-2. Open `README.md` in a text editor and paste the above content.
-
-3. Save the file and commit the changes:
-   ```bash
-   git add README.md
-   git commit -m "Updated project README with detailed documentation"
-   git push origin main
-   ```
-
 
