@@ -122,5 +122,3 @@ This repository presents a **cutting-edge approach** to detecting and predicting
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 ```
 
----
-
