@@ -1,8 +1,3 @@
-Here's the complete **README.md** file with everything implemented, properly formatted for GitHub:
-
----
-
-```markdown
 # 🛰️ SatelliteUrbanShift: Deep Learning & Machine Learning for Urban Expansion Prediction
 
 ![Urban Expansion](https://your-image-link-here.com/banner.png)
@@ -35,8 +30,6 @@ This repository presents a **cutting-edge approach** to detecting and predicting
 ├── 📄 README.md          # Project documentation
 ├── 📄 requirements.txt   # Dependencies for easy setup
 └── 📄 train.py           # Model training script
-```
-
 ---
 
 ## 🚀 Getting Started
