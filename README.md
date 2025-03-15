@@ -21,7 +21,7 @@ This repository presents a **cutting-edge approach** to detecting and predicting
 
 ## 📂 Project Structure
 
-
+ ```bash
 📦 SatelliteUrbanShift
 ├── 📁 data               # Processed and raw satellite imagery data
 ├── 📁 models             # Machine learning and deep learning models
@@ -31,7 +31,7 @@ This repository presents a **cutting-edge approach** to detecting and predicting
 ├── 📄 requirements.txt   # Dependencies for easy setup
 └── 📄 train.py           # Model training script
 ---
-
+ ```
 ## 🚀 Getting Started
 
 ### 🔧 Installation
