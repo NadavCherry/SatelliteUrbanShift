@@ -76,7 +76,7 @@ This repository presents a **cutting-edge approach** to detecting and predicting
 ## 🔬 Technologies & Tools
 
 - **Python** 🐍
-- **TensorFlow / PyTorch** 🔥
+- **PyTorch** 🔥
 - **XGBoost, Random Forest, SVM** 🌲
 - **Satellite Image Processing** 🛰️
 - **OpenCV** 📷
